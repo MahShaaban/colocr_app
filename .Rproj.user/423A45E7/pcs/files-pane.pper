@@ -1,0 +1,9 @@
+{
+    "path" : "~/colocr/inst/colocr_app",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
